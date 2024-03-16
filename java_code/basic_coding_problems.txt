@@ -1,0 +1,804 @@
+﻿  "DATE "         "TASK"     "COUNT"
+"23-12-2022","Website filling","500","(3301-3800)"
+"26-12-2022","website filling","530","(3801-4330)"
+"27-12-2022","website filling","500","(4331-4830)"
+"28-12-2022","website filling","520","(4831-5001)set11 sheet4, (02-350)set12 sheet7"
+"29-12-2022","website filling","530","(351-880)"
+"30-12-2022","website filling","500","(881-1380)"
+"02-01-2023","website filling","500","(1381-1880)"
+"03-01-2023","website filling","520","(1881-2400)"
+"04-01-2023","website filling","500","(2401-2900)"
+"05-01-2023","website filling","500","(2901-3400)"
+"06-01-2023","website filling","460","(3401-3860)"
+"09-01-2023","website filling","500","(3861-4360)"
+"10-01-2023","website filling","500","(4361-4860)"
+"11-01-2023","website filling","500","(4861-5001)set12 sheet7, (02-360)set13 sheet4"
+"12-01-2023","website filling","500","(361-860)"
+"13-01-2023","website filling","500","(861-1360)"
+"18-01-2023","website filling","500","(1361-1860)"
+"19-01-2023","website filling","540","(1861-2400)"
+"20-01-2023","website filling","520","(2401-2920)"
+"21-01-2023","website filling","500","(2921-3420)"
+"23-01-2023","website filling","550","(3421-3970)"
+"24-01-2023","website filling","510","(3971-4480)"
+"25-01-2023","website filling","521","(4481-5001)"
+"27-01-2023","website filling","550","(02-551)set14 sheet1"
+"30-01-2023","website filling","530","(552-1081)"
+"31-01-2023","website filling","520","(1082-1601)"
+"01-02-2023","website filling","550","(1602-2151)"
+"02-02-2023","website filling","530","(2152-2681)"
+"03-02-2023","website filling","530","(2682-3211)"
+"06-02-2023","website filling","570","(3212-3781)"
+"07-02-2023","website filling","530","(3782-4311)"
+"08-02-2023","website filling","550","(4312-4861)"
+"09-02-2023","website filling","520","(4862-5001)set14 sheet1,(02-381)set14 sheet8"
+"10-02-2023","website filling","560","(382-941)"
+"13-02-2023","website filling","550","(942-1491)"
+"14-02-2023","website filling","570","(1492-2061)"
+"15-02-2023","website filling","540","(2062-2601)"
+"16-02-2023","website filling","550","(2602-3151)"
+"17-02-2023","website filling","560","(3152-3711)"
+"20-02-2023","website filling","520","(3712-4231)"
+"21-02-2023","website filling","540","(4232-4771)"
+"22-02-2023","website filling","550","(4772-5001)set14 sheet8,(02-321)set15 sheet3"
+"23-02-2023","website filling","500","(322-821)"
+"24-02-2023","website filling","520","(822-1341)"
+"27-02-2023","website filling","560","(1342-1901)"
+"28-02-2023","website filling","530","(1902-2431)"
+"01-03-2023","website filling","550","(2432-2981)"
+"02-03-2023","website filling","530","(2982-3511)"
+"03-03-2023","website filling","530","(3512-4041)"
+"06-03-2023","website filling","540","(4042-4581)"
+"07-03-2023","website filling","550","(4582-5001)set15 sheet3, (02-131)set15 sheet10"
+"08-03-2023","website filling","530","(132-661)"
+"09-03-2023","website filling","520","(662-1281)"
+"10-03-2023","website filling","500","(1282-1781)"
+"13-03-2023","website filling","530","(1782-2311)"
+"14-03-2023","website filling","189","(2312-2500)"
+"14-03-2023","website filling recheck","200","(02-201)"
+"15-03-2023","website filling recheck","1600","(202-1801)"
+"16-03-2023","website filling recheck","2000","(1801-3801)"
+"17-03-2023","website filling recheck","1200","(3802-5001)"
+"20-03-2023","NL Data website filling","45","(05-49)"
+"21-03-2023","NL Data website filling","60","(49-109)"
+"22-03-2023","NL Data website filling","67","(109-176)"
+"23-03-2023","NL Data website filling","80","(177-256)"
+"24-03-2023","NL Data website filling","80","(257-336)"
+"27-03-2023","NL Data website filling","90","(337-426)"
+"28-03-2023","NL Data website filling","75","(427-501)"
+"28-03-2023","website filling recheck(sindhuja)","150","(02-151)"
+"29-03-2023","website filling recheck(sindhuja)","1600","(152-1750)"
+"30-03-2023","website filling recheck(sindhuja)","1800","(1751-3550)"
+"31-03-2023","log_apr23","112","(18031-18142)"
+"31-03-2023","website filling recheck(sindhuja)","1223","(3551-4773)"
+"03-04-2023","log_apr23","410","(18143-18552)"
+"04-04-2023","log_apr23","630","(18553-19182)"
+"05-04-2023","log_apr23","680","(19183-19862)"
+"06-04-2023","log_apr23","720","(19863-20582)"
+"07-04-2023","log_apr23","660","(20583-21242)"
+"10-04-2023","log_apr23","700","(21243-21942)"
+"11-04-2023","log_apr23","720","(21943-22642)"
+"12-04-2023","log_apr23","700","(22643-23362)"
+"13-04-2023","log_apr23","563","(23363-23925)"
+"17-04-2023","log_apr23","700","(23926-24625)"
+"18-04-2023","log_apr23","700","(24626-25325)"
+"19-04-2023","log_apr23","710","(25326-26035)"
+"20-04-2023","log_apr23","700","(26036-26735)"
+"21-04-2023","log_apr23","700","(26736-27435)"
+"24-04-2023","log_apr23","750","(27436-28185)"
+"25-04-2023","log_apr23","750","(28186-28935)"
+"26-04-2023","log_apr23","750","(28936-29685)"
+"27-04-2023","log_apr23","720","(29686-30405)"
+"28-04-2023","log_apr23","700","(30406-31105)"
+"02-05-2023","log_apr23","730","(31106-31835)"
+"03-05-2023","log_apr23","700","(31836-32535)"
+"04-05-2023","log_apr23","700","(32536-33235)"
+"05-05-2023","log_apr23","720","(33236-33955)"
+"08-05-2023","log_apr23","700","(33956-34655)"
+"09-05-2023","log_apr23","700","(34656-35355)"
+"10-05-2023","log_apr23","705","(35356-36060)"
+"11-05-2023","log_apr23","700","(17331-18030)"
+"12-05-2023","log_apr23","260","(16811-17070)"
+"12-05-2023","NL Data ","40","(502-541)"
+"15-05-2023","NL Data ","140","(542-681)"
+"16-05-2023","NL Data","160","(682-841)"
+"17-05-2023","NL Data","180","(842-1001)-(6502-6521)"
+"18-05-2023","NL Data ","200","(6522-6721)"
+"19-05-2023","NL Data ","200","(6722-6921)"
+"22-05-2023","NL Data","230","(6922-7001)(17502-17651)"
+"23-05-2023","NL Data ","230","(17652-17881)"
+"24-05-2023","NL Data","250","(17882-18001)(23002-23131)"
+"25-05-2023","NL Data","250","(23132-23381)"
+"26-05-2023","NL Data","250","(23382-23501)(31002-31131)"
+"29-05-2023","NL Data","250","(31132-31381)"
+"30-05-2023","NL Data","250","(31382-31501)(38002-38131)"
+"31-05-2023","NL Data","250","(38132-38381)"
+"01-06-2023","NL Data","250","(38382-38501)(46502-46631)"
+"02-06-2023","NL Data","250","(46632-46881)"
+"05-06-2023","NL Data","250","(46882-47001)(9002-9131)"
+"06-06-2023","NL Data","250","(9132-9381)"
+"07-06-2023","NL Data","250","(9382-9631)"
+"08-06-2023","NL Data","250","(9632-9881)"
+"09-06-2023","NL Data","250","(9882-10001)(23002-23131)"
+"12-06-2023","NL Data","250","(23132-23381)"
+"13-06-2023","NL Data","250","(23382-23631)"
+"14-06-2023","NL Data","250","(23632-23881)"
+"15-06-2023","NL Data","260","(23882-24001)(40002-40141)"
+"16-06-2023","NL Data","260","(40142-40401)"
+"19-06-2023","NL Data ","270","(40402-40671)"
+"20-06-2023","NL Data ","270","(40672-40941)"
+"21-06-2023","NL Data ","270","(40942-41001)(57002-57212)"
+"22-06-2023","NL Data ","280","(57213-57492)"
+"23-06-2023","NL Data ","280","(57493-57772)"
+"26-06-2023","NL Data ","280","(57773-58001)(21002-21055)"
+"27-06-2023","NL Data","300","(21056-21355)"
+"28-06-2023","NL Data","300","(21356-21655)"
+"03-07-2023","NL Data","300","(21656-21955)"
+"04-07-2023","NL Data","300","(21956-22001)(46002-46255)"
+"05-07-2023","NL Data","250","(46256-46505)"
+"06-07-2023","NL Data","300","(46506-46805)"
+"07-07-2023","NL Data","100","(46806-46905)"
+"11-07-2023","revenue filling","27",
+"12-07-2023","revenue filling","64",
+"13-07-2023","revenue filling","103",
+"14-07-2023","revenue filling","99",
+"15-07-2023","revenue filling","85",
+"17-07-2023","revenue filling","107",
+"18-07-2023","revenue filling","106",
+"19-07-2023","revenue filling","122",
+"20-07-2023","revenue filling","100",
+"21-07-2023","revenue filling","117",
+"24-07-2023","revenue filling","160",
+"25-07-2023","revenue filling","143",
+"26-07-2023","revenue filling","145",
+"27-07-2023","revenue filling","170",
+"28-07-2023","revenue filling","110",
+"31-07-2023","revenue filling","153",
+"01-08-2023","revenue filling","160",
+"02-08-2023","revenue filling","183",
+"03-08-2023","revenue filling","150",
+"04-08-2023","revenue filling","155",
+"07-08-2023","revenue filling","170",
+"08-08-2023","revenue filling","180",
+"09-08-2023","revenue filling","185",
+"10-08-2023","revenue filling","200",
+"11-08-2023","revenue filling","150",
+"17-08-2023","revenue filling","153",
+"18-08-2023","revenue filling","160",
+"19-08-2023","revenue filling","165",
+"21-08-2023","revenue filling","202",
+"22-08-2023","revenue filling","200",
+"23-08-2023","revenue filling","200",
+"24-08-2023","revenue filling","170",
+"25-08-2023","revenue filling","150",
+"26-08-2023","revenue filling","160",
+"28-08-2023","revenue filling","200",
+"29-08-2023","revenue filling","220",
+"30-08-2023","revenue filling","200",
+"31-08-2023","revenue filling","162",
+"01-09-2023","revenue filling","100",
+"04-09-2023","revenue filling","110",
+
+
+
+
+
+
+
+
+yubifuybc
+
+
+
+
+
+table keys in list parah list:
+
+
+table > tbody > tr:nth-child(1) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(2) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(3) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(4) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(5) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(6) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(7) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(8) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(9) > td._1hKmbr.col.col-3-12
+table > tbody > tr:nth-child(10) > td._1hKmbr.col.col-3-12
+
+
+
+table odd keys selector:
+
+tbody > tr:nth-of-type(2n+1) > td._1hKmbr.col.col-3-12
+
+table omiting 2 keys in a parah list:
+
+tbody > tr:nth-of-type(2n+1) > td._1hKmbr.col.col-3-12
+
+
+table omiting 3 keys in a parah list:
+
+tbody > tr:nth-of-type(4n+1) > td._1hKmbr.col.col-3-12
+
+
+
+table omiting 4 keys in a parah list:
+
+
+tbody > tr:nth-of-type(5n+1) > td._1hKmbr.col.col-3-12
+
+5 keys omiting :
+
+tbody > tr:nth-of-type(6n+1) > td._1hKmbr.col.col-3-12
+
+6 keys omiting: 
+
+tbody > tr:nth-of-type(7n+1) > td._1hKmbr.col.col-3-12
+
+
+
+
+
+
+
+
+table 1,2 key slector in parah list:
+
+tbody > tr:nth-child(-n+2) > td._1hKmbr.col.col-3-1
+
+like (-n+3) ==1,2,3 keys selctor 
+like (-n+4) ==1,2,3,4 keys selector
+In a table select the first div keys only:
+
+
+
+._3k-BhJ:nth-child(1) > table > tbody > tr > td._1hKmbr.col.col-3-12
+
+
+
+
+In a table select the first div values only:
+
+._3k-BhJ:nth-child(1) > table > tbody > tr > td.UrwL2w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.venatorcorp.com/~/media/Files/V/Venator/annual-report-and-proxy-statement/vntr-12-31-22-20-f.pdf--$ 2.1B  , employees--3,413 
+
+
+
+
+https://www.rakon.com/hubfs/Files/Investor/FY23/RAK%20FY23%20Annual%20Report.pdf--$ 180.3m  ,  employees—1000
+
+
+
+https://stratuspropertiesinc.gcs-web.com/static-files/b62e20da-6207-415d-a995-a05d739def18--$ 24.7M    , employees--31
+
+
+1070-1270---200
+
+
+
+
+
+
+package bank_management_system;
+
+import java.awt.*;
+
+import javax.swing.*;
+import java.awt.event.*;
+
+
+public class Login extends JFrame implements ActionListener{
+	JButton login,Clear,Signup;
+	JTextField cardtextfield;
+	JPasswordField pintextfield;
+	Login(){
+		setTitle("AUTOMATED TELLER MACHINE");
+		
+		
+		setLayout(null);
+		
+		ImageIcon i1= new ImageIcon(ClassLoader.getSystemResource("bank_management_system/bank.png"));
+		Image i2 = i1.getImage().getScaledInstance(100,100,Image.SCALE_DEFAULT);
+		ImageIcon i3 = new ImageIcon(i2);
+		JLabel label = new JLabel(i3);
+		label.setBounds(70,10,100,100);
+		add(label);
+		
+		
+		JLabel label2 = new JLabel("Welcome to ATM");
+		label2.setFont(new Font("roboto",Font.ITALIC,18));
+		label2.setBounds(300,40,170,40);
+		add(label2);
+		
+		JLabel cardno = new JLabel("Card No:");
+		cardno.setFont(new Font("times new roman",Font.ITALIC,18));
+	    cardno.setBounds(150,110,100,110);
+		add(cardno);
+
+		cardtextfield = new JTextField();
+		cardtextfield.setBounds(270,150,270,30);
+		add(cardtextfield);
+		
+		JLabel pin = new JLabel("Pin no:");
+		pin.setFont(new Font("times new roman",Font.ITALIC,18));
+		pin.setBounds(150,160,100,160);
+		add(pin);
+		
+		
+		pintextfield = new JPasswordField();
+		pintextfield.setBounds(270,220,270,30);
+		add(pintextfield);
+		
+		
+		login = new JButton("SIGN IN");
+		login.setBounds(270,300,120,40);
+		login.setBackground(Color.BLACK);
+		login.setForeground(Color.white);
+		login.addActionListener(this);
+		add(login);
+		
+		
+		Clear = new JButton("Clear");
+		Clear.setBounds(420,300,120,40);
+		Clear.setBackground(Color.black);
+		Clear.setForeground(Color.white);
+		Clear.addActionListener(this);
+        add(Clear);
+		
+		
+		Signup = new JButton("SIGN UP");
+		Signup.setBounds(270,380,270,30);
+		Signup.setBackground(Color.black);
+		Signup.setForeground(Color.white);
+		Signup.addActionListener(this);
+        add(Signup);
+		
+		
+		getContentPane().setBackground(Color.white);
+		
+		setSize(800,500);
+		setVisible(true);
+		setLocation(350,200);
+	}
+
+	public static void main(String[] args) {
+		new Login();
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+     
+		if(e.getSource()== Clear) {
+			cardtextfield.setText("");
+			pintextfield.setText("");
+		}else if (e.getSource()==login) {
+			
+			
+		}else if(e.getSource()== Signup) {
+			
+		}
+	
+	}
+
+}
+
+
+
+
+
+hackerrank.com
+leetcode.com
+geeksforgeek.com
+codechef.com
+
+
+public class Replace {
+
+
+
+
+
+        public static void main(String args[]){
+            String s1="A rose is a rose of containing rose";
+            contains(s1);
+
+
+
+        }
+
+        private static void contains(String s1) {
+            String s2="rose";
+            int Start=0,end=0;
+            for(int i=0;i<s1.length();i++) {
+                if(s1.charAt(i)==s2.charAt(0)) {
+                    int start=i;
+                    int count = 0;
+                    for(int j=0;j<s2.length();j++) {
+                        if(s2.charAt(j)==s1.charAt(i))
+                        {
+                            count++;
+                            i++;
+                            end=i;
+                        }
+                    }
+                    if(count==s2.length()){
+                        System.out.println("Yes contains");
+                        System.out.println(start+" "+end);
+
+                        break;
+                    }else{
+                        System.out.println("no does not contains");
+                        break;
+
+
+                    }
+
+                }
+
+            }
+
+
+        }
+
+    }
+
+
+
+
+
+
+replacefirst code: |
+
+
+
+public class Main {
+    public static void main(String[] args) {
+        String s1="A monkey is animal";
+        Contains(s1);
+
+    }
+    private static void Contains(String s1) {
+        String s2="monkey";
+        for(int i=0; i<s1.length();i++){
+            int Start,end = i;
+            if(s1.charAt(i)== s2.charAt(0)){
+                int count=0;
+                Start=i;
+                for(int j=0;j<s2.length();j++){
+                    if(s2.charAt(j)==s1.charAt(i)){
+                        count++;
+                        i++;
+                        end=i;
+                }
+                if(count==s2.length())
+                {
+                    System.out.println("yes contains");
+                    System.out.println(Start+" "+end);
+                    Replacement(s1,"lion",Start,end);
+                    break;
+                }
+
+
+            }
+
+
+        }
+    }
+}
+
+    private static void Replacement(String s1, String replace, int start, int end) {
+        StringBuffer s= new StringBuffer();
+        for(int i=0;i<start;i++){
+            s.append(s1.charAt(i));
+        }
+        s.append(replace+" ");
+        for(int i=end; i<s1.length(); i++){
+            s.append(s1.charAt(i));
+        }
+
+        System.out.println(s);
+
+    }
+    }
+
+
+
+    ;
+ replacefirst code:
+
+
+
+
+public class trim {
+    public static void main(String[] args) {
+        String s1 = "    A monkey is animal   ";
+        System.out.println(s1.length());
+        System.out.println(s1);
+        int f=0,l=s1.length()-1;
+        boolean first=false,last=false;
+        for(int i=0;i<s1.length();i++){
+            if(s1.charAt(i)==' ' && first == false)
+            {
+                f++;
+            }
+            else
+            {
+                first=true;
+            }
+            if(s1.charAt(l)==' ' && last==false)
+            {
+                l--;
+            }
+            else
+            {
+              last=true;
+            }
+            if(first==true && last==true)
+                break;
+        }
+        for(int i=f;i<l;i++){
+            System.out.print(s1.charAt(i));
+        }
+        System.out.println(s1.length());
+    }
+}
+trim program:
+
+
+
+
+public class replacesentence {
+    public static void main(String[] args) {
+        String s1 = "A monkey is animal";
+        int start=0,end=s1.length()-1;
+        for(int i=s1.length()-1;i>0;i--){
+            if( s1.charAt(i)!=' ')
+            {
+                continue;
+            }
+            else
+            {
+                start=i+1;
+                reverse(s1,start,end);
+                end=i-1;
+            }
+        }
+        reverse(s1,0,end);
+
+    }
+
+    private static void reverse(String s1, int start, int end) {
+        String s2="";
+        for(int i=start;i<=end;i++){
+
+            s2=s2+s1.charAt(i);
+
+        }
+        s2=s2+" ";
+        System.out.print(s2);
+    }
+}
+replace a sentence:
+
+
+
+public class stripleading {
+    public static void main(String[] args) {
+        String s1 = "    monkey is an animal";
+        int f=0;
+        for(int i=0;i<=s1.length();i++)
+       {
+
+           if(s1.charAt(i)==' ')
+           {
+               continue;
+           }
+           else
+           {
+               f=i;
+               break;
+           }
+
+       }
+        for(int i=f;i<s1.length();i++)
+        {
+        System.out.print(s1.charAt(i));
+        }
+    }
+
+}
+ stripleading code:
+
+
+import java.util.Optional;
+
+public class stripleading {
+    public static void main(String[] args) {
+        String s1="i am     printing       something";
+        boolean first_space=false;
+        for(int i=0;i<s1.length();i++){
+            if(s1.charAt(i)!=' '){
+                System.out.print(s1.charAt(i));
+                first_space=true;
+
+            } else if (first_space==true)
+            {
+                System.out.print(s1.charAt(i));
+                first_space=false;
+
+            }
+        }
+
+    }
+
+}
+removing unwanted space code:
+
+
+
+spiral matrix:
+
+public class spiralmatrix {
+    public static void main(String[] args) {
+
+        int [][]a =new int [4][4];
+
+        int rs=0,re=3,cs=0,ce=3;
+        int no=1;
+        while(no<=16) {
+            int row = rs;
+            for (int col = cs; col <= ce; col++) {
+                a[row][col] = no;
+                no++;
+            }
+            rs++;
+
+            int col = ce;
+            for (row = rs; row <= re; row++) {
+                a[row][col] = no;
+                no++;
+            }
+            ce--;
+
+            row = re;
+            for (col = ce; col >= cs; col--) {
+                a[row][col] = no;
+                no++;
+            }
+            re--;
+
+            col = cs;
+            for (row = re; row >= rs; row--) {
+                a[row][col] = no;
+                no++;
+            }
+            cs++;
+        }
+        for(int row=0;row<4;row++)
+        {
+            for(int col=0;col<4;col++)
+            {
+                System.out.print(a[row][col]+"\t");
+            }
+            System.out.print(" "+"\n");
+        }
+
+
+    }
+
+}
+
+reverse type of spiral matrix code:
+
+public class spiralmatrix {
+    public static void main(String[] args) {
+
+        int[][] a = new int[4][4];
+
+        int rs = 0, re = 3, cs = 0, ce = 3;
+        int no = 16;
+
+        int col = cs + 2;
+        for (int row = rs + 2; row >= re - 1; row--) {
+            a[row][col] = no;
+            no--;
+        }
+        cs++;
+
+
+        col = cs;
+        for (int row = rs + 2; row >= re - 1; row--) {
+            a[row][col] = no;
+            no--;
+        }
+        cs--;
+
+        int row = rs + 1;
+        for (col = cs + 1; col >= cs + 1; col--) {
+            a[row][col] = no;
+            no--;
+        }
+        rs++;
+
+        row = rs;
+        for (col = cs + 2; col >= cs + 2; col--) {
+            a[row][col] = no;
+            no--;
+        }
+        rs--;
+
+        row = rs + 1;
+        for (col = cs + 3; col >= cs + 3; col--) {
+            a[row][col] = no;
+            no--;
+        }
+        rs++;
+
+        col = ce;
+        for (row = rs + 1; row <= rs + 2; row++) {
+            a[row][col] = no;
+            no--;
+        }
+        ce--;
+
+        row=re;
+       for(col=ce;col>=cs;col--)
+       {
+         a[row][col] = no;
+          no--;
+       }
+       re--;
+
+       col=cs;
+       for( row=re;row>=rs-1;row--)
+       {
+           a[row][col] = no;
+           no--;
+       }
+      cs++;
+
+       row=rs-1;
+       for(col=cs;col<=ce+1;col++){
+           a[row][col] = no;
+           no--;
+       }
+       rs++;
+
+        for (row = 0; row < 4; row++) {
+            for ( col = 0; col < 4; col++) {
+                System.out.print(a[row][col] + "\t");
+            }
+            System.out.print(" " + "\n");
+        }
+
+
+    }
+}
+
+
+
